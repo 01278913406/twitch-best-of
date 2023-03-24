@@ -25,10 +25,6 @@
   ```git
   git clone https://github.com/BayoDev/Twitch-Best-Of-Gen.git
   ```
-  __Or__
-  
-  ![Download repository](/Images/install.gif)
-  
 
 ### 2. Unzip the file if compressed
 
